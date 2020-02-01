@@ -1,3 +1,5 @@
+<a href="https://uwaterloo.ca/networks-lab/"><img src="http://www.johnmclevey.com/assets/img/logo.png" width="125"  align="right" /></a>
+
 # Fundamentals of Data Analysis with Python 
 
 49th [GESIS Spring Seminar: Digital Behavioral Data](https://training.gesis.org/?site=pDetails&pID=0xA33E4024A2554302B3EF4AECFC3484FD)   
