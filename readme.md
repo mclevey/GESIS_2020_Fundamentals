@@ -6,10 +6,10 @@
 Cologne, Germany, March 2-6 2010
 
 * Day 1: Fundamentals of Python for Researchers 
-* Day 2: Collecting Data from the Web 
-* Day 3: Scientific Computing with NumPy, Pandas, Matplotlib, and Seaborn 
-* Day 4: An Introduction to Working with Unstructured Data
-* Day 5: Intermediate Data Manipulation and Management 
+* Day 2: Collecting Data from the Web (Scrapers and APIs) 
+* Day 3: Scientific Computing with `Pandas`
+* Day 4: Data Visualization 
+* Day 5: Working with Unstructured Data + Combining Multiple Datasets
 
 ### Course Developers and Instructors 
 
