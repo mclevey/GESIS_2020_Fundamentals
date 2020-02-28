@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+config.py
+config_twitter.py
