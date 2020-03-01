@@ -20,4 +20,4 @@ Cologne, Germany, March 2-6 2010
 
 If you make use of the these materials in your research or teaching, please use the following citation information: 
 
-* McLevey, John and Jillian Anderson. 2020. "Fundamentals of Data Analysis with Python." 49th GESIS Spring Seminar: Digital Behavioral Data. Cologne, Germany. 
+* John McLevey and Jillian Anderson. 2020. "Fundamentals of Data Analysis with Python." 49th GESIS Spring Seminar: Digital Behavioral Data. Cologne, Germany. 
