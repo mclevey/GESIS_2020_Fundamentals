@@ -5,11 +5,11 @@
 49th [GESIS Spring Seminar: Digital Behavioral Data](https://training.gesis.org/?site=pDetails&pID=0xA33E4024A2554302B3EF4AECFC3484FD)   
 Cologne, Germany, March 2-6 2010
 
-* Day 1: Fundamentals of Python for Researchers 
+* Day 1: Python for Researchers, 101
 * Day 2: Collecting Data from the Web (Scrapers and APIs) 
 * Day 3: Scientific Computing with `Pandas`
 * Day 4: Data Visualization 
-* Day 5: Working with Unstructured Data + Combining Multiple Datasets
+* Day 5: Data Challenges (+ Additional Content, Questions, Reviews, and Open Consultations) 
 
 ### Course Developers and Instructors 
 
@@ -20,4 +20,4 @@ Cologne, Germany, March 2-6 2010
 
 If you make use of the these materials in your research or teaching, please use the following citation information: 
 
-* McLevey, John and Jillian Anderson. 2020. "Fundamentals of Data Analysis with Python." 49th GESIS Spring Seminar: Digital Behavioral Data. Cologne, Germany. 
+* John McLevey and Jillian Anderson. 2020. "Fundamentals of Data Analysis with Python." 49th GESIS Spring Seminar: Digital Behavioral Data. Cologne, Germany. 
